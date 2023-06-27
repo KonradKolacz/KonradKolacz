@@ -1,7 +1,7 @@
 ### Hi there, I'm Konrad 👋 Welcome on my GitHub profile!
 
 I'm constantly expanding my knowledge about programming.
-<h1>I love to work and create with Java abd SQL</h1>
+<h1>I love to work and create with Java and SQL</h1>
 <br>
 <h5><img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> <img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg"> <img width="50" alt="portfolio_view" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">  <img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
 <img width="55" alt="portfolio_view" src="https://fs.siteor.com/javatech/files/hibernate2.png">
